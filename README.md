@@ -19,8 +19,9 @@ Hi, I'm sakots. I'm enjoying my own schizophrenia.
 ### Something like Twitter
 
 - Twitter [@sakots696](https://twitter.com/sakots696)
-- Pawoo [@sakots@pawoo.net](https://pawoo.net/web/accounts/61687)
   - I usually write in a language very similar to Japanese.
+- Pawoo [@sakots@pawoo.net](https://pawoo.net/web/accounts/61687)
+  - I don't usually see much.
 - fedi.absturztau.be [@sakots@fedi.absturztau.be](https://fedi.absturztau.be/sakots)
   - I registered here to get in touch with those who want to read this. I promise to write in a language like English.
 

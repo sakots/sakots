@@ -23,7 +23,7 @@ Hi, I'm sakots. I'm enjoying my own schizophrenia.
 - Pawoo [@sakots@pawoo.net](https://pawoo.net/web/accounts/61687)
   - I don't usually see much.
 - fedi.absturztau.be [@sakots@fedi.absturztau.be](https://fedi.absturztau.be/sakots)
-  - I registered here to get in touch with those who want to read this. I promise to write in a language like English.
+  - I registered here to get in touch with those who want to read this. I promise to write in a language similar to English.
 
 ### 📫 email
 

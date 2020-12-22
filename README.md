@@ -12,7 +12,7 @@ Hi, I'm sakots. I'm enjoying my own schizophrenia.
 ## To do (if possible)
 
 - A new oekaki BBS script.
-- Or incorporate PaintBBS_NEO and Shi-Painter into Preroma, Mastodon, Misky, etc.
+- Or incorporate PaintBBS_NEO and Shi-Painter into Preroma, Mastodon, Misskey, etc.
 
 ## How to reach me
 

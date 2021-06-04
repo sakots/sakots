@@ -5,8 +5,6 @@ Hi, I'm sakots. I'm enjoying my own schizophrenia.
 
 ## Currently working on
 
-- [POTI-board-Kai NI](https://github.com/sakots/poti-kaini) : An oekaki BBS script.
-- [POTI-board-Kai NI-EN](https://github.com/sakots/poti-kaini-EN) : Translation of POTI into English.
 - [noe-board](https://github.com/sakots/noe-board) : An oekaki BBS script I worked hard on myself. SQLite and Smarty is used.
 
 ## To do (if possible)
@@ -22,8 +20,6 @@ Hi, I'm sakots. I'm enjoying my own schizophrenia.
   - I usually write in a language very similar to Japanese.
 - Pawoo [@sakots@pawoo.net](https://pawoo.net/web/accounts/61687)
   - I don't usually see much.
-- fedi.absturztau.be [@sakots@fedi.absturztau.be](https://fedi.absturztau.be/sakots)
-  - I registered here to get in touch with those who want to read this. I promise to write in a language similar to English.
 
 ### 📫 email
 

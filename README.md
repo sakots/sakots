@@ -3,7 +3,8 @@
 ![My portrait](img/ico.png "My portrait")  
 Hi, I'm sakots. I'm enjoying my own schizophrenia.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakots?show_icons=true?theme=merco)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakots&show_icons=true&theme=merko)
+(https://github.com/anuraghazra/github-readme-stats)
 
 ## Currently working on
 

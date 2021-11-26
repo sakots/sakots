@@ -3,9 +3,11 @@
 ![My portrait](img/ico.png "My portrait")  
 Hi, I'm sakots. I'm enjoying my own schizophrenia.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sakots=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Currently working on
 
-- [noe-board](https://github.com/sakots/noe-board) : An oekaki BBS script I worked hard on myself. SQLite and Smarty is used.
+- [ROIS](https://github.com/sakots/rois) : An oekaki BBS script I worked hard on myself. SQLite and BladeOne is used.
 
 ## To do (if possible)
 

@@ -1,18 +1,17 @@
 # Look at Me, I'm sakots-chan
 
-![My portrait](img/ico.png "My portrait")  
+![My portrait](img/ico.png "My portrait")
 Hi, I'm sakots. I'm enjoying my own schizophrenia.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakots&show_icons=true&theme=cobalt)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakots&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-(https://github.com/anuraghazra/github-readme-stats)
+by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 ## Currently working on
 
-- [ROIS](https://github.com/sakots/rois) : An oekaki BBS script I worked hard on myself. SQLite and BladeOne is used.
+- [noReita](https://github.com/sakots/noReita) : An oekaki BBS script I worked hard on myself. SQLite and BladeOne is used.
 
 ## To do (if possible)
 

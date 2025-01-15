@@ -22,10 +22,9 @@ by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 ### Something like Twitter
 
-- Twitter [@sakots696](https://twitter.com/sakots696)
+- X [@sakots696](https://x.com/sakots696)
+- Misskey.io [@352696@misskey.io](https://misskey.io/@352696)
   - I usually write in a language very similar to Japanese.
-- Pawoo [@sakots@pawoo.net](https://pawoo.net/web/accounts/61687)
-  - I don't usually see much.
 
 ### 📫 email
 

@@ -22,7 +22,7 @@ by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 ### Something like Twitter
 
-- X [@sakots696](https://x.com/sakots696)
+- X [@352_oekakibbs](https://x.com/352_oekakibbs)
 - Misskey.io [@352696@misskey.io](https://misskey.io/@352696)
   - I usually write in a language very similar to Japanese.
 
